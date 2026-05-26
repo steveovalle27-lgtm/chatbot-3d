@@ -1,0 +1,16 @@
+{
+  "name": "chatbot-avatar-3d",
+  "version": "1.0.0",
+  "description": "Chatbot 3D con avatar - Backend + Frontend unificado",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently --names \"BACKEND,FRONTEND\" --prefix-colors \"cyan.bold,magenta.bold\" \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd r3f-virtual-girlfriend-backend && npm run dev",
+    "dev:frontend": "cd r3f-virtual-girlfriend-frontend && npm run dev",
+    "install:all": "npm install && cd r3f-virtual-girlfriend-backend && npm install && cd ../r3f-virtual-girlfriend-frontend && npm install",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}

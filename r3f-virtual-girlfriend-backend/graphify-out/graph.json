@@ -1,0 +1,1129 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "index.js",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L1",
+      "id": "index_js",
+      "community": 1,
+      "norm_label": "index.js"
+    },
+    {
+      "label": "openai",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L12",
+      "id": "r3f_virtual_girlfriend_backend_index_openai",
+      "community": 1,
+      "norm_label": "openai"
+    },
+    {
+      "label": "supabase",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L18",
+      "id": "r3f_virtual_girlfriend_backend_index_supabase",
+      "community": 1,
+      "norm_label": "supabase"
+    },
+    {
+      "label": "app",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L26",
+      "id": "r3f_virtual_girlfriend_backend_index_app",
+      "community": 1,
+      "norm_label": "app"
+    },
+    {
+      "label": "execCommand()",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L93",
+      "id": "r3f_virtual_girlfriend_backend_index_execcommand",
+      "community": 1,
+      "norm_label": "execcommand()"
+    },
+    {
+      "label": "lipSyncMessage()",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L105",
+      "id": "r3f_virtual_girlfriend_backend_index_lipsyncmessage",
+      "community": 1,
+      "norm_label": "lipsyncmessage()"
+    },
+    {
+      "label": "history",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L173",
+      "id": "r3f_virtual_girlfriend_backend_index_history",
+      "community": 1,
+      "norm_label": "history"
+    },
+    {
+      "label": "messages",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L206",
+      "id": "r3f_virtual_girlfriend_backend_index_messages",
+      "community": 1,
+      "norm_label": "messages"
+    },
+    {
+      "label": "readJsonTranscript()",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L234",
+      "id": "r3f_virtual_girlfriend_backend_index_readjsontranscript",
+      "community": 1,
+      "norm_label": "readjsontranscript()"
+    },
+    {
+      "label": "audioFileToBase64()",
+      "file_type": "code",
+      "source_file": "index.js",
+      "source_location": "L239",
+      "id": "r3f_virtual_girlfriend_backend_index_audiofiletobase64",
+      "community": 1,
+      "norm_label": "audiofiletobase64()"
+    },
+    {
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1",
+      "id": "package_json",
+      "community": 0,
+      "norm_label": "package.json"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "id": "r3f_virtual_girlfriend_backend_package_name",
+      "community": 0,
+      "norm_label": "name"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "id": "r3f_virtual_girlfriend_backend_package_version",
+      "community": 0,
+      "norm_label": "version"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "id": "r3f_virtual_girlfriend_backend_package_description",
+      "community": 0,
+      "norm_label": "description"
+    },
+    {
+      "label": "main",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "id": "r3f_virtual_girlfriend_backend_package_main",
+      "community": 0,
+      "norm_label": "main"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "id": "r3f_virtual_girlfriend_backend_package_type",
+      "community": 0,
+      "norm_label": "type"
+    },
+    {
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "id": "r3f_virtual_girlfriend_backend_package_scripts",
+      "community": 0,
+      "norm_label": "scripts"
+    },
+    {
+      "label": "start",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "id": "r3f_virtual_girlfriend_backend_package_scripts_start",
+      "community": 0,
+      "norm_label": "start"
+    },
+    {
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "id": "r3f_virtual_girlfriend_backend_package_scripts_dev",
+      "community": 0,
+      "norm_label": "dev"
+    },
+    {
+      "label": "author",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "id": "r3f_virtual_girlfriend_backend_package_author",
+      "community": 0,
+      "norm_label": "author"
+    },
+    {
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "id": "r3f_virtual_girlfriend_backend_package_dependencies",
+      "community": 2,
+      "norm_label": "dependencies"
+    },
+    {
+      "label": "@supabase/supabase-js",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "id": "r3f_virtual_girlfriend_backend_package_dependencies_supabase_supabase_js",
+      "community": 2,
+      "norm_label": "@supabase/supabase-js"
+    },
+    {
+      "label": "cors",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "id": "r3f_virtual_girlfriend_backend_package_dependencies_cors",
+      "community": 2,
+      "norm_label": "cors"
+    },
+    {
+      "label": "dotenv",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "id": "r3f_virtual_girlfriend_backend_package_dependencies_dotenv",
+      "community": 2,
+      "norm_label": "dotenv"
+    },
+    {
+      "label": "elevenlabs-node",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "id": "r3f_virtual_girlfriend_backend_package_dependencies_elevenlabs_node",
+      "community": 2,
+      "norm_label": "elevenlabs-node"
+    },
+    {
+      "label": "express",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "id": "r3f_virtual_girlfriend_backend_package_dependencies_express",
+      "community": 2,
+      "norm_label": "express"
+    },
+    {
+      "label": "openai",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "id": "r3f_virtual_girlfriend_backend_package_dependencies_openai",
+      "community": 2,
+      "norm_label": "openai"
+    },
+    {
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "id": "r3f_virtual_girlfriend_backend_package_devdependencies",
+      "community": 0,
+      "norm_label": "devdependencies"
+    },
+    {
+      "label": "nodemon",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "id": "r3f_virtual_girlfriend_backend_package_devdependencies_nodemon",
+      "community": 0,
+      "norm_label": "nodemon"
+    },
+    {
+      "label": "VSWorkspaceState.json",
+      "file_type": "code",
+      "source_file": ".vs/VSWorkspaceState.json",
+      "source_location": "L1",
+      "id": "vs_vsworkspacestate_json",
+      "community": 9,
+      "norm_label": "vsworkspacestate.json"
+    },
+    {
+      "label": "ExpandedNodes",
+      "file_type": "code",
+      "source_file": ".vs/VSWorkspaceState.json",
+      "source_location": "L2",
+      "id": "vs_vsworkspacestate_expandednodes",
+      "community": 9,
+      "norm_label": "expandednodes"
+    },
+    {
+      "label": "SelectedNode",
+      "file_type": "code",
+      "source_file": ".vs/VSWorkspaceState.json",
+      "source_location": "L5",
+      "id": "vs_vsworkspacestate_selectednode",
+      "community": 9,
+      "norm_label": "selectednode"
+    },
+    {
+      "label": "PreviewInSolutionExplorer",
+      "file_type": "code",
+      "source_file": ".vs/VSWorkspaceState.json",
+      "source_location": "L6",
+      "id": "vs_vsworkspacestate_previewinsolutionexplorer",
+      "community": 9,
+      "norm_label": "previewinsolutionexplorer"
+    },
+    {
+      "label": "DocumentLayout.backup.json",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.backup.json",
+      "source_location": "L1",
+      "id": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_backup_json",
+      "community": 7,
+      "norm_label": "documentlayout.backup.json"
+    },
+    {
+      "label": "Version",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.backup.json",
+      "source_location": "L2",
+      "id": "v18_documentlayout_backup_version",
+      "community": 7,
+      "norm_label": "version"
+    },
+    {
+      "label": "WorkspaceRootPath",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.backup.json",
+      "source_location": "L3",
+      "id": "v18_documentlayout_backup_workspacerootpath",
+      "community": 7,
+      "norm_label": "workspacerootpath"
+    },
+    {
+      "label": "Documents",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.backup.json",
+      "source_location": "L4",
+      "id": "v18_documentlayout_backup_documents",
+      "community": 7,
+      "norm_label": "documents"
+    },
+    {
+      "label": "DocumentGroupContainers",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.backup.json",
+      "source_location": "L10",
+      "id": "v18_documentlayout_backup_documentgroupcontainers",
+      "community": 7,
+      "norm_label": "documentgroupcontainers"
+    },
+    {
+      "label": "DocumentLayout.json",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.json",
+      "source_location": "L1",
+      "id": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_json",
+      "community": 8,
+      "norm_label": "documentlayout.json"
+    },
+    {
+      "label": "Version",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.json",
+      "source_location": "L2",
+      "id": "v18_documentlayout_version",
+      "community": 8,
+      "norm_label": "version"
+    },
+    {
+      "label": "WorkspaceRootPath",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.json",
+      "source_location": "L3",
+      "id": "v18_documentlayout_workspacerootpath",
+      "community": 8,
+      "norm_label": "workspacerootpath"
+    },
+    {
+      "label": "Documents",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.json",
+      "source_location": "L4",
+      "id": "v18_documentlayout_documents",
+      "community": 8,
+      "norm_label": "documents"
+    },
+    {
+      "label": "DocumentGroupContainers",
+      "file_type": "code",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.json",
+      "source_location": "L10",
+      "id": "v18_documentlayout_documentgroupcontainers",
+      "community": 8,
+      "norm_label": "documentgroupcontainers"
+    },
+    {
+      "label": "api_0.json",
+      "file_type": "code",
+      "source_file": "audios/api_0.json",
+      "source_location": "L1",
+      "id": "audios_api_0_json",
+      "community": 3,
+      "norm_label": "api_0.json"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "audios/api_0.json",
+      "source_location": "L2",
+      "id": "audios_api_0_metadata",
+      "community": 3,
+      "norm_label": "metadata"
+    },
+    {
+      "label": "soundFile",
+      "file_type": "code",
+      "source_file": "audios/api_0.json",
+      "source_location": "L3",
+      "id": "audios_api_0_metadata_soundfile",
+      "community": 3,
+      "norm_label": "soundfile"
+    },
+    {
+      "label": "duration",
+      "file_type": "code",
+      "source_file": "audios/api_0.json",
+      "source_location": "L4",
+      "id": "audios_api_0_metadata_duration",
+      "community": 3,
+      "norm_label": "duration"
+    },
+    {
+      "label": "mouthCues",
+      "file_type": "code",
+      "source_file": "audios/api_0.json",
+      "source_location": "L6",
+      "id": "audios_api_0_mouthcues",
+      "community": 3,
+      "norm_label": "mouthcues"
+    },
+    {
+      "label": "api_1.json",
+      "file_type": "code",
+      "source_file": "audios/api_1.json",
+      "source_location": "L1",
+      "id": "audios_api_1_json",
+      "community": 4,
+      "norm_label": "api_1.json"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "audios/api_1.json",
+      "source_location": "L2",
+      "id": "audios_api_1_metadata",
+      "community": 4,
+      "norm_label": "metadata"
+    },
+    {
+      "label": "soundFile",
+      "file_type": "code",
+      "source_file": "audios/api_1.json",
+      "source_location": "L3",
+      "id": "audios_api_1_metadata_soundfile",
+      "community": 4,
+      "norm_label": "soundfile"
+    },
+    {
+      "label": "duration",
+      "file_type": "code",
+      "source_file": "audios/api_1.json",
+      "source_location": "L4",
+      "id": "audios_api_1_metadata_duration",
+      "community": 4,
+      "norm_label": "duration"
+    },
+    {
+      "label": "mouthCues",
+      "file_type": "code",
+      "source_file": "audios/api_1.json",
+      "source_location": "L6",
+      "id": "audios_api_1_mouthcues",
+      "community": 4,
+      "norm_label": "mouthcues"
+    },
+    {
+      "label": "intro_0.json",
+      "file_type": "code",
+      "source_file": "audios/intro_0.json",
+      "source_location": "L1",
+      "id": "audios_intro_0_json",
+      "community": 5,
+      "norm_label": "intro_0.json"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "audios/intro_0.json",
+      "source_location": "L2",
+      "id": "audios_intro_0_metadata",
+      "community": 5,
+      "norm_label": "metadata"
+    },
+    {
+      "label": "soundFile",
+      "file_type": "code",
+      "source_file": "audios/intro_0.json",
+      "source_location": "L3",
+      "id": "audios_intro_0_metadata_soundfile",
+      "community": 5,
+      "norm_label": "soundfile"
+    },
+    {
+      "label": "duration",
+      "file_type": "code",
+      "source_file": "audios/intro_0.json",
+      "source_location": "L4",
+      "id": "audios_intro_0_metadata_duration",
+      "community": 5,
+      "norm_label": "duration"
+    },
+    {
+      "label": "mouthCues",
+      "file_type": "code",
+      "source_file": "audios/intro_0.json",
+      "source_location": "L6",
+      "id": "audios_intro_0_mouthcues",
+      "community": 5,
+      "norm_label": "mouthcues"
+    },
+    {
+      "label": "intro_1.json",
+      "file_type": "code",
+      "source_file": "audios/intro_1.json",
+      "source_location": "L1",
+      "id": "audios_intro_1_json",
+      "community": 6,
+      "norm_label": "intro_1.json"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "audios/intro_1.json",
+      "source_location": "L2",
+      "id": "audios_intro_1_metadata",
+      "community": 6,
+      "norm_label": "metadata"
+    },
+    {
+      "label": "soundFile",
+      "file_type": "code",
+      "source_file": "audios/intro_1.json",
+      "source_location": "L3",
+      "id": "audios_intro_1_metadata_soundfile",
+      "community": 6,
+      "norm_label": "soundfile"
+    },
+    {
+      "label": "duration",
+      "file_type": "code",
+      "source_file": "audios/intro_1.json",
+      "source_location": "L4",
+      "id": "audios_intro_1_metadata_duration",
+      "community": 6,
+      "norm_label": "duration"
+    },
+    {
+      "label": "mouthCues",
+      "file_type": "code",
+      "source_file": "audios/intro_1.json",
+      "source_location": "L6",
+      "id": "audios_intro_1_mouthcues",
+      "community": 6,
+      "norm_label": "mouthcues"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "index_js",
+      "target": "r3f_virtual_girlfriend_backend_index_openai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "index_js",
+      "target": "r3f_virtual_girlfriend_backend_index_supabase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "index_js",
+      "target": "r3f_virtual_girlfriend_backend_index_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L93",
+      "weight": 1.0,
+      "source": "index_js",
+      "target": "r3f_virtual_girlfriend_backend_index_execcommand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "index_js",
+      "target": "r3f_virtual_girlfriend_backend_index_lipsyncmessage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L173",
+      "weight": 1.0,
+      "source": "index_js",
+      "target": "r3f_virtual_girlfriend_backend_index_history",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "index_js",
+      "target": "r3f_virtual_girlfriend_backend_index_messages",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "index_js",
+      "target": "r3f_virtual_girlfriend_backend_index_readjsontranscript",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L239",
+      "weight": 1.0,
+      "source": "index_js",
+      "target": "r3f_virtual_girlfriend_backend_index_audiofiletobase64",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "index.js",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_index_lipsyncmessage",
+      "target": "r3f_virtual_girlfriend_backend_index_execcommand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "r3f_virtual_girlfriend_backend_package_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "r3f_virtual_girlfriend_backend_package_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "r3f_virtual_girlfriend_backend_package_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "r3f_virtual_girlfriend_backend_package_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "r3f_virtual_girlfriend_backend_package_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "r3f_virtual_girlfriend_backend_package_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "r3f_virtual_girlfriend_backend_package_author",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "r3f_virtual_girlfriend_backend_package_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "package_json",
+      "target": "r3f_virtual_girlfriend_backend_package_devdependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_package_scripts",
+      "target": "r3f_virtual_girlfriend_backend_package_scripts_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_package_scripts",
+      "target": "r3f_virtual_girlfriend_backend_package_scripts_dev",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_package_dependencies",
+      "target": "r3f_virtual_girlfriend_backend_package_dependencies_supabase_supabase_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_package_dependencies",
+      "target": "r3f_virtual_girlfriend_backend_package_dependencies_cors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_package_dependencies",
+      "target": "r3f_virtual_girlfriend_backend_package_dependencies_dotenv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_package_dependencies",
+      "target": "r3f_virtual_girlfriend_backend_package_dependencies_elevenlabs_node",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_package_dependencies",
+      "target": "r3f_virtual_girlfriend_backend_package_dependencies_express",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_package_dependencies",
+      "target": "r3f_virtual_girlfriend_backend_package_dependencies_openai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "r3f_virtual_girlfriend_backend_package_devdependencies",
+      "target": "r3f_virtual_girlfriend_backend_package_devdependencies_nodemon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/VSWorkspaceState.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "vs_vsworkspacestate_json",
+      "target": "vs_vsworkspacestate_expandednodes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/VSWorkspaceState.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "vs_vsworkspacestate_json",
+      "target": "vs_vsworkspacestate_selectednode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/VSWorkspaceState.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "vs_vsworkspacestate_json",
+      "target": "vs_vsworkspacestate_previewinsolutionexplorer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.backup.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_backup_json",
+      "target": "v18_documentlayout_backup_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.backup.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_backup_json",
+      "target": "v18_documentlayout_backup_workspacerootpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.backup.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_backup_json",
+      "target": "v18_documentlayout_backup_documents",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.backup.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_backup_json",
+      "target": "v18_documentlayout_backup_documentgroupcontainers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_json",
+      "target": "v18_documentlayout_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_json",
+      "target": "v18_documentlayout_workspacerootpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_json",
+      "target": "v18_documentlayout_documents",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vs/r3f-virtual-girlfriend-backend.slnx/v18/DocumentLayout.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "vs_r3f_virtual_girlfriend_backend_slnx_v18_documentlayout_json",
+      "target": "v18_documentlayout_documentgroupcontainers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/api_0.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "audios_api_0_json",
+      "target": "audios_api_0_metadata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/api_0.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "audios_api_0_json",
+      "target": "audios_api_0_mouthcues",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/api_0.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "audios_api_0_metadata",
+      "target": "audios_api_0_metadata_soundfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/api_0.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "audios_api_0_metadata",
+      "target": "audios_api_0_metadata_duration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/api_1.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "audios_api_1_json",
+      "target": "audios_api_1_metadata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/api_1.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "audios_api_1_json",
+      "target": "audios_api_1_mouthcues",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/api_1.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "audios_api_1_metadata",
+      "target": "audios_api_1_metadata_soundfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/api_1.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "audios_api_1_metadata",
+      "target": "audios_api_1_metadata_duration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/intro_0.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "audios_intro_0_json",
+      "target": "audios_intro_0_metadata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/intro_0.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "audios_intro_0_json",
+      "target": "audios_intro_0_mouthcues",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/intro_0.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "audios_intro_0_metadata",
+      "target": "audios_intro_0_metadata_soundfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/intro_0.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "audios_intro_0_metadata",
+      "target": "audios_intro_0_metadata_duration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/intro_1.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "audios_intro_1_json",
+      "target": "audios_intro_1_metadata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/intro_1.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "audios_intro_1_json",
+      "target": "audios_intro_1_mouthcues",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/intro_1.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "audios_intro_1_metadata",
+      "target": "audios_intro_1_metadata_soundfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "audios/intro_1.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "audios_intro_1_metadata",
+      "target": "audios_intro_1_metadata_duration",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "1a02c5057951b504180bb438fee4a920d9b31b2e"
+}

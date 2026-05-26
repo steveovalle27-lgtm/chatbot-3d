@@ -1,0 +1,82 @@
+{
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\index.js": {
+    "mtime": 1779660521.722396,
+    "ast_hash": "05d4045abe56dbcb8b9c9b425800a4c6",
+    "semantic_hash": "05d4045abe56dbcb8b9c9b425800a4c6"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\package.json": {
+    "mtime": 1779660316.775019,
+    "ast_hash": "5efb369509b270cdbb1ad1b2d62ba05b",
+    "semantic_hash": "5efb369509b270cdbb1ad1b2d62ba05b"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\.vs\\VSWorkspaceState.json": {
+    "mtime": 1779678419.7894049,
+    "ast_hash": "bf8a273c8cf5df5b2052596c9165275b",
+    "semantic_hash": "bf8a273c8cf5df5b2052596c9165275b"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\.vs\\r3f-virtual-girlfriend-backend.slnx\\v18\\DocumentLayout.backup.json": {
+    "mtime": 1779677443.6447964,
+    "ast_hash": "73f1cd8ca8294f9f5b4d9753bd05ef8c",
+    "semantic_hash": "73f1cd8ca8294f9f5b4d9753bd05ef8c"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\.vs\\r3f-virtual-girlfriend-backend.slnx\\v18\\DocumentLayout.json": {
+    "mtime": 1779678419.588487,
+    "ast_hash": "73f1cd8ca8294f9f5b4d9753bd05ef8c",
+    "semantic_hash": "73f1cd8ca8294f9f5b4d9753bd05ef8c"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\api_0.json": {
+    "mtime": 1779659671.398753,
+    "ast_hash": "1f2e06335c89619b303e1f12afb694dd",
+    "semantic_hash": "1f2e06335c89619b303e1f12afb694dd"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\api_1.json": {
+    "mtime": 1779659671.40852,
+    "ast_hash": "d0a2228d38ad612e534a541f80c1aa74",
+    "semantic_hash": "d0a2228d38ad612e534a541f80c1aa74"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\intro_0.json": {
+    "mtime": 1779659671.427641,
+    "ast_hash": "41e2ee128c5d555a6f1e78edb10b1d7d",
+    "semantic_hash": "41e2ee128c5d555a6f1e78edb10b1d7d"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\intro_1.json": {
+    "mtime": 1779659671.429659,
+    "ast_hash": "d6bf8535fca2dd82eb41cb898511fb55",
+    "semantic_hash": "d6bf8535fca2dd82eb41cb898511fb55"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\README.md": {
+    "mtime": 1779659671.3906481,
+    "ast_hash": "0256ff859983a846e49a60e6cef58600",
+    "semantic_hash": "0256ff859983a846e49a60e6cef58600"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\api_0.mp3": {
+    "mtime": 1779659671.398753,
+    "ast_hash": "53e17a8b385b35667ea550248ff6b95e",
+    "semantic_hash": "53e17a8b385b35667ea550248ff6b95e"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\api_0.wav": {
+    "mtime": 1779659671.40852,
+    "ast_hash": "15166970f422d581f02860334d88c59e",
+    "semantic_hash": "15166970f422d581f02860334d88c59e"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\api_1.mp3": {
+    "mtime": 1779659671.412294,
+    "ast_hash": "dd6a564d5181d53c9d95e93ff16ece90",
+    "semantic_hash": "dd6a564d5181d53c9d95e93ff16ece90"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\api_1.wav": {
+    "mtime": 1779659671.4256232,
+    "ast_hash": "fc09916c7ffcba730fdd157b3c6410b6",
+    "semantic_hash": "fc09916c7ffcba730fdd157b3c6410b6"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\intro_0.wav": {
+    "mtime": 1779659671.429659,
+    "ast_hash": "d3ac7f40a466dec0636482f18de9c9e4",
+    "semantic_hash": "d3ac7f40a466dec0636482f18de9c9e4"
+  },
+  "D:\\Programas\\Visual Studio\\r3f-virtual-girlfriend-backend\\audios\\intro_1.wav": {
+    "mtime": 1779659671.4402242,
+    "ast_hash": "b249d0135e5556097067cdb494f66f00",
+    "semantic_hash": "b249d0135e5556097067cdb494f66f00"
+  }
+}
