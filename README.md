@@ -284,7 +284,7 @@ MIT — ver [`LICENSE`](LICENSE) para más detalles.
 
 ## 👤 Autor
 
-Desarrollado por **[Tu Nombre]** como proyecto académico aplicando **Clean Architecture + DSDM + MSTest**.
+Desarrollado por STEVE OVALLE como proyecto académico aplicando **Clean Architecture + DSDM + MSTest**.
 
 ---
 
